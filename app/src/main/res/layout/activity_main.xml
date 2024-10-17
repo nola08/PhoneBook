@@ -17,4 +17,5 @@
         android:id="@+id/contactsListView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    //test
 </LinearLayout>
